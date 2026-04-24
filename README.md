@@ -1,6 +1,6 @@
 # SQL Practice Database
 
-A relational database built with Microsoft SQL Server as part of a practice assignment.
+A relational database built with Microsoft SQL Server.
 Models a simple order management system with customers, employees, products, and orders.
 
 ## Database Diagram
