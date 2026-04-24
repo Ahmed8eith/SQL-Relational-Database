@@ -5,7 +5,7 @@ Models a simple order management system with customers, employees, products, and
 
 ## Database Diagram
 
-![Database Diagram](diagram.png)
+![Database Diagram](Diagram.png)
 
 ## Tables
 
